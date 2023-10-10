@@ -1,0 +1,5 @@
+###
+GET http://localhost:8188/test/mailTest?ti=hihi6 HTTP/1.1
+
+
+###
